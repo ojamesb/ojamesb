@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ojamesb
+- 👀 I’m interested in cloud tools
+- 🌱 I’m currently learning new cloud tooling
+- 💞️ I’m looking to collaborate on opensource tools
